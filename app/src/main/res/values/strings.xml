@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">emergencyInfo</string>
+    <string name="title">e-Mergency Info</string>
+    <string name="iconhospital">iconHospital</string>
+    <string name="iconfire">iconFire</string>
+    <string name="iconpolice">iconPolice</string>
+    <string name="iconpln">iconPln</string>
+</resources>
